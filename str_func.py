@@ -1,4 +1,3 @@
-
 def upp():
   '''Возвращает строку в верхнем регистре'''
   s = input()
@@ -10,4 +9,3 @@ def tit():
   s_1 = input()
   s_1_title = s_1.title()
   print(s_1_title)
-
